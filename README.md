@@ -37,7 +37,7 @@ The FMCA Directory is more than just a directory; it’s a vital tool for foster
 
 ## 👨‍💻 About the Developer
 
-Hello, I’m *Sajid Jamil*, an experienced **Brilliant Directory developer**. At Metaviz, we have a team of skilled developers dedicated to creating innovative solutions on the Brilliant Directory platform. My work on the FMCA Directory project highlights my capability to build feature-rich, user-friendly platforms that address specific industry needs.
+At Metaviz, we have a team of skilled developers dedicated to creating innovative solutions on the Brilliant Directory platform. My work on the FMCA Directory project highlights my capability to build feature-rich, user-friendly platforms that address specific industry needs.
 
 If you're looking to create or enhance a directory website on the *Brilliant Directory* platform, feel free to **[contact me](mailto:sajidjamil.met@gmail.com)**. Let’s collaborate to build an impactful online presence for your business!
 
